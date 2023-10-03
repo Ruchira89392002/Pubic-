@@ -44,13 +44,13 @@
 ```
 mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 ```
-3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
+3.  ***Click [FORK](https://github.com/Ruchira89392002/Pubic-.git/fork)***
 ## Heroku Deployment Method
 4.  ***Deploy on [Heroku](https://sampandey00011-af12d376b8d4.herokuapp.com/heroku)***
 ## Koyeb Deployment Method
 5. ***[Deploy on Koyeb](https://sampandey00011-af12d376b8d4.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
 
-6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Secktor-Md)***
+6. ***Also Deploy on [Replit]( https://repl.it/https://github.com/Ruchira89392002/Pubic-.git)***
 
 If ***RUN*** Doesn't work, paste these commands in repl shell
 
@@ -73,7 +73,7 @@ Copy the JSON down and paste in repl then fill the vars
 }
 ```
 
-7.  ***[Deploy on Railway](https://sampandey00011-af12d376b8d4.herokuapp.com/railway)***
+7.  ***[Deploy on Railway](https://github.com/Ruchira89392002/Pubic-.git/railway)***
 
 8. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
   
