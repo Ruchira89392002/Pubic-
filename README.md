@@ -44,9 +44,9 @@
 ```
 mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
 ```
-3.  ***Click [FORK](https://github.com/Ruchira89392002/Pubic-.git/fork)***
+3.  ***Click [FORK](https://github.com/Ruchira89392002/Pubic-/fork)***
 ## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://sampandey00011-af12d376b8d4.herokuapp.com/heroku)***
+4.  ***Deploy on [Heroku](https://Ruchirasuboda.herokuapp.com/heroku)***
 ## Koyeb Deployment Method
 5. ***[Deploy on Koyeb](https://sampandey00011-af12d376b8d4.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
 
